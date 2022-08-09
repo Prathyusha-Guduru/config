@@ -1,0 +1,15 @@
+{
+    "directionalLightColor": "#fff",
+    "directionalLightPosition": [2.4, 1.0, 0.4],
+    "camera": {
+        "cameraType": "PerspectiveCamera",
+        "cameraPosition": [-1.3, 0.3, 2.4],
+        "cameraFOV": 45,
+        "cameraZoom": 1.5
+    },
+    "geometryTypes": ["BoxGeometry", "CircleGeometry", "ConeGeometry"],
+    "Lights": {
+        "AmbientLightsColors": ["0x404040", "0x515151", "0x212121"],
+        "AmbientLightHelpers": [1.23, 2.34, 6.43]
+    }
+}
